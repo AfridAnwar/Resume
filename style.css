@@ -1,0 +1,29 @@
+body{
+    background-color: rgb(250, 235, 215);
+    margin-left: 20px;
+}
+.head{
+   text-align: center;
+}
+h2{
+    font-family: sans-serif;
+    
+}
+h2{
+    text-decoration: underline;
+    text-underline-offset: 0.4em;
+  
+}
+p,.list{
+  color: rgb(85, 81, 81);
+}
+.role{
+    margin-bottom: 8px;
+}
+.zuvidate{
+    color: rgb(0, 0, 0);
+    
+}
+.invol{
+    color: #3a3a3a;
+}
